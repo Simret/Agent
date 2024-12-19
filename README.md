@@ -8,7 +8,7 @@ This is AI agent that can assists code generation.
 First, clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/simret/codeassistant.git
+git clone https://github.com/simret/assistant.git
 cd codeassistant
 ```
 
