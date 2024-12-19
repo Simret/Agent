@@ -1,6 +1,6 @@
 # AI Code Assistant
 
-This is AI agent that can assists code generation.
+This is an AI agent that can assist code generation.
 
 ## Installation
 
